@@ -1,0 +1,1 @@
+{"rewrites":[{"destination":"https://api-testnet.qore.host/:path*","source":"/lcd/:path*"}]}
